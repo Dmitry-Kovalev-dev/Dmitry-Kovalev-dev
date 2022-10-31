@@ -34,7 +34,7 @@ ___
 
 ___
 ### Контакты:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](t.me/dimakovalev)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/dimakovalev)
 [![Mail](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=)](mailto:doke@yandex.ru)
 ___
 <br>
